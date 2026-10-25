@@ -3,7 +3,7 @@
   "appId": "cc0fb8af-b382-40dd-b375-6be2f823758a",
   "appDisplayName": "Warehouse Picking",
   "region": "prod",
-  "environmentId": null,
+  "environmentId": "c0fd9342-009c-e26b-8d07-97f698182b0e",
   "description": "",
   "buildPath": "./dist",
   "buildEntryPoint": "index.html",
